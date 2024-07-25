@@ -1,0 +1,1 @@
+Test remote txt for pull in directory git-aula.
