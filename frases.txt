@@ -5,3 +5,4 @@ frases
 4 - otaotaota
 5 - mudança
 6 - outra mudança
+7 = vamos de mais mudanças
